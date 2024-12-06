@@ -1,6 +1,4 @@
 # PwC-Switzerland-Power-BI-Job-Simulation-on-Forage-
-Here’s a rewritten version of your README file with a more structured and concise tone:
-
 ---
 
 ## **Overview**
