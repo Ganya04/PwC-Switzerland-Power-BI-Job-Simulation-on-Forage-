@@ -1,6 +1,10 @@
-# PwC-Switzerland-Power-BI-Job-Simulation-on-Forage-
----
+### PwC Switzerland Power BI Virtual Internship
 
+#### **Certificate**  
+Completed the [PwC Switzerland Power BI Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_SQGDnrwM5WzFRzJXZ_1731010001835_completion_certificate.pdf)
+program, showcasing skills in data analysis, visualization, and storytelling to deliver actionable business insights.
+
+---
 ## **Overview**
 
 At PwC Switzerland, we are committed to driving innovation through technology and empowering our people to leverage digital tools. Our goal is to differentiate ourselves in the market by digitizing our business processes and enabling our teams to create efficient, growth-oriented, and innovative solutions.
@@ -9,7 +13,7 @@ As part of this strategy, we’ve invested in upskilling initiatives that train 
 
 With over 2,400 bots already created to automate workflows, we continue to invest in cutting-edge tools like **Power BI**, **machine learning**, and eventually **artificial intelligence (AI)**. These advancements are pivotal in helping us solve problems faster and deliver impactful solutions for our clients.
 
-This is where our **Digital Accelerator Programme** plays a crucial role. The programme equips employees with essential technology skills in automation, machine learning, design thinking, and digital storytelling. As part of this initiative, Power BI has emerged as a key tool for visualizing data and enabling better decision-making for both internal teams and clients.
+This is where our **Digital Accelerator Programme** plays a crucial role. The program equips employees with essential technology skills in automation, machine learning, design thinking, and digital storytelling. As part of this initiative, Power BI has emerged as a key tool for visualizing data and enabling better decision-making for both internal teams and clients.
 
 ---
 
@@ -68,11 +72,11 @@ Help the client establish KPIs to measure diversity and inclusion progress and p
 
 ---
 
-## **Goals and Outcomes**
+## Key Takeaways:
 1. **Drive Data-Driven Decision-Making**: Equip clients with clear, interactive dashboards to improve efficiency and achieve their goals.  
 2. **Empower Teams with Insights**: Enable teams to visualize data and uncover trends for strategic actions.  
 3. **Promote Diversity and Inclusion**: Assist in achieving workforce diversity goals by providing clear metrics and actionable recommendations.
 
-By completing these tasks, we aim to demonstrate the transformative power of data visualization through **Power BI**, empowering teams to achieve better business outcomes.
+This internship experiencewe aims to demonstrate the transformative power of data visualization through **Power BI**, empowering teams to achieve better business outcomes.
 
 --- 
