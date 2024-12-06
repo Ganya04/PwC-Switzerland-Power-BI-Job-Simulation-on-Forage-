@@ -18,11 +18,11 @@ This is where our **Digital Accelerator Programme** plays a crucial role. The pr
 ## **Tasks and Deliverables**
 
 ### **Task 1: Call Centre Trends Dashboard**
-Create an interactive **Power BI dashboard** for Claire that highlights relevant **Key Performance Indicators (KPIs)** and metrics from the provided dataset. Use your creativity to present meaningful insights.
+Create an interactive Power BI dashboard for Claire that highlights relevant Key Performance Indicators (KPIs) and metrics from the provided dataset. Use your creativity to present meaningful insights.
 
 #### Suggested KPIs:
 - Overall customer satisfaction  
-- Total calls answered vs abandoned  
+- Total calls answered vs Abandoned  
 - Call distribution by time  
 - Average speed of answer  
 - Agent performance quadrant: Analyze **average handle time** (talk duration) vs **calls answered**
@@ -35,8 +35,8 @@ Develop a Power BI dashboard for the **Retention Manager** to analyze customer r
 
 #### Key Focus Areas:
 - Understand and visualize customer retention trends in the telecom industry.  
-- Identify high-risk customers to proactively mitigate contract termination.  
-- Provide a self-explanatory dashboard that can guide strategic decisions and reduce customer churn.
+- Identify high-risk customers to mitigate contract termination proactively.  
+- Provide a self-explanatory dashboard to guide strategic decisions and reduce customer churn.
 
 #### Notes:
 - Current retention efforts are reactionary, targeting customers only after termination.  
@@ -44,7 +44,8 @@ Develop a Power BI dashboard for the **Retention Manager** to analyze customer r
 - Address limitations of Excel-based analysis with a clear and visually engaging Power BI dashboard.
 <img width="724" alt="Customer Churn ss" src="https://github.com/user-attachments/assets/3937da37-8226-4712-b883-52e7f9ee3d89">
 
-<img width="888" alt="Customer risk analysis ss" src="https://github.com/user-attachments/assets/b1d8224c-d5bc-437e-91ed-e3eaa89264ad">
+<img width="723" alt="Customer risk analysis ss (2)" src="https://github.com/user-attachments/assets/aeb5277a-aa3a-4a39-8b8f-47d83b5bf37f">
+
 
 ---
 
@@ -63,7 +64,7 @@ Support the telecom client’s Human Resources team in creating a Power BI dashb
 #### Objective:
 Help the client establish KPIs to measure diversity and inclusion progress and provide actionable insights for better representation and talent management.
 
-<img width="890" alt="Diversity and Inclusion ss 1" src="https://github.com/user-attachments/assets/3b2375f3-6e7f-4e5d-a130-105216ef362e">
+<img width="723" alt="Diversity and Inclusion ss 1" src="https://github.com/user-attachments/assets/2cb11004-a939-445c-9073-3027dba6b3b1">
 
 <img width="726" alt="Diversity and Inclusion ss" src="https://github.com/user-attachments/assets/4ef3be1b-625a-4332-a4f0-1ef5a784b5e3">
 
